@@ -1,0 +1,20 @@
+body {
+    background-color: beige;
+    text-align: center;
+    
+}
+#title {
+    font-size: large;
+}
+#img-div {
+    padding: 10px;
+    margin: 0;
+    background-color: cadetblue;
+    border-radius: 5%;
+}
+#img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;  
+}
